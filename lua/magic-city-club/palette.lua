@@ -1,9 +1,8 @@
--- Single source of truth for the palette.
 -- Edit here to change the scheme globally.
 
 local P = {
 	bg = "#0e1722",
-	fg = "#e1e7f1",
+	fg = "#c9cdd4",
 	fg2 = "#cfd5de",
 	fg3 = "#bdc2ca",
 	fg4 = "#abb0b7",
@@ -12,15 +11,16 @@ local P = {
 	bg4 = "#484f57",
 	keyword = "#c397df",
 	builtin = "#d6dcbf",
-	const = "#8ff0a4",
+	const = "#c1fba4",
 	comment = "#77767b",
-	func = "#d6dcbf",
+	func = "#BDE0FE",
 	str = "#e8c296",
 	type = "#d6dcbf",
-	var = "#e1e7f1",
+	var = "#c9cdd4",
 	warning = "#ffbe6f",
 	warning2 = "#ff8800",
 	special = "#71a2a2",
+	special2 = "#a3a3d1",
 }
 
 return P

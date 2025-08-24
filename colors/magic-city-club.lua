@@ -1,2 +1,2 @@
 -- This makes :colorscheme mytheme work
-require("mcc").load()
+require("magic-city-club").load()
